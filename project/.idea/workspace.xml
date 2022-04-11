@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projectpostgre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -44,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644056337006</updated>
       <workItem from="1644056340387" duration="1204000" />
+      <workItem from="1644181222550" duration="14000" />
     </task>
     <servers />
   </component>
